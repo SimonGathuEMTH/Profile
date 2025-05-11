@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Simon Gathu! 🚀
+# 👋 Hi, I'm  Gathu Macharia! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SimonGathuEMTH&color=blue)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
